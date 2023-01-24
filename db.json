@@ -1,0 +1,14 @@
+{
+  "fruits": [
+    {
+      "code": "1",
+      "description": "Papas",
+      "price": "23"
+    },
+    {
+      "code": "2",
+      "description": "Peras",
+      "price": "18"
+    }
+  ]
+}
