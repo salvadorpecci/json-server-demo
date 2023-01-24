@@ -1,14 +1,19 @@
 {
   "fruits": [
     {
-      "code": "1",
-      "description": "Papas",
-      "price": "23"
+      "description": "Tomates",
+      "price": "10",
+      "id": 1
     },
     {
-      "code": "2",
+      "description": "Papas",
+      "price": "23",
+      "id": 2
+    },
+    {
       "description": "Peras",
-      "price": "18"
+      "price": "15",
+      "id": 3
     }
   ]
 }
